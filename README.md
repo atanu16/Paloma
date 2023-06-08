@@ -2,4 +2,5 @@
 Chatting Application [React Project]
 
 
-<img src="yo.gif" alt="Girl in a jacket" width="500" height="600">
+
+![yo](https://github.com/atanu16/Paloma/assets/83860778/ef417a7c-0045-4bea-b2fa-8b6066878131)
